@@ -1,0 +1,3 @@
+# flamescope-chrome-notebooks
+
+A set of Jupyter notebooks aimed to explore how to parse Chrome performance profiles to be used in [FlameScope](https://github.com/Netflix/flamescope). Examples use both [Trace Event](https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/edit) and [Inspector 1.2](https://chromedevtools.github.io/devtools-protocol/tot/Profiler#type-Profile) formats. Refereces can be found in the [REFERENCES.md](REFERENCES.md) file.
